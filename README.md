@@ -16,8 +16,6 @@
 - 服务框架：FastAPI
 - 当前 API：POST /robot_command，返回机器人动作序列
 
-完整远程部署教程与服务代码见：[src/docs/REMOTE_MODEL_DEPLOYMENT.md](src/docs/REMOTE_MODEL_DEPLOYMENT.md)
-
 ## 系统架构
 
 ```text
