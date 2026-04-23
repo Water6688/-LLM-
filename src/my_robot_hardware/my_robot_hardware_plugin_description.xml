@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<library path="my_robot_hardware">
+  <class
+    name="my_robot_hardware/Sts3215HardwareInterface"
+    type="my_robot_hardware::Sts3215HardwareInterface"
+    base_class_type="hardware_interface::SystemInterface"
+  >
+    <description>STS3215 hardware interface using Feetech protocol layer</description>
+  </class>
+</library>
